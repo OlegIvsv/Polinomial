@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sigma_task4_A", "Sigma_task4_A\Sigma_task4_A.csproj", "{D6A88625-7DE3-4FE6-AF54-4DAEC849700A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sigma_task4_B", "Sigma_task4_B\Sigma_task4_B.csproj", "{440D3A44-EE80-4AEB-9D56-FFC2CB1E2836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6A88625-7DE3-4FE6-AF54-4DAEC849700A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A88625-7DE3-4FE6-AF54-4DAEC849700A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A88625-7DE3-4FE6-AF54-4DAEC849700A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A88625-7DE3-4FE6-AF54-4DAEC849700A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{440D3A44-EE80-4AEB-9D56-FFC2CB1E2836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440D3A44-EE80-4AEB-9D56-FFC2CB1E2836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440D3A44-EE80-4AEB-9D56-FFC2CB1E2836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440D3A44-EE80-4AEB-9D56-FFC2CB1E2836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A6DB5C6-B5EE-4B2A-BA09-2481DBD8FE64}
+	EndGlobalSection
+EndGlobal
